@@ -95,7 +95,7 @@ ul {
 .test {
   padding: 5px;
   height: 20px;
-  width: 20px;
+  width: 20%;
 }
 
 .social li:hover {
@@ -166,7 +166,7 @@ ul {
   font-weight: bold;
   padding: 8px 10px;
   border-radius: 12px;
-  margin: 130px 70px 1px;
+  margin: 130px 40px 1px;
 }
 
 .a {
